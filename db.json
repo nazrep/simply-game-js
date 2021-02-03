@@ -1,8 +1,7 @@
-{
-    "employeeOfTheMonth": {
-    "name": "nazrep",
-    "position": "Frontend Developer",
-    "image": "https://mir-s3-cdn-cf.behance.net/user/276/c56609564099987.5efb29aca3c43.jpg",
-    "description": "cool boy"
-  }
+  "employeeOfTheMonth": {
+  "name": "nazrep",
+  "position": "Frontend Developer",
+  "image": "https://mir-s3-cdn-cf.behance.net/user/276/c56609564099987.5efb29aca3c43.jpg",
+  "description": "cool boy"
 }
+
